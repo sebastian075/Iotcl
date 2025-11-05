@@ -4,10 +4,10 @@
 
 ## Features
 
-| Exploit       | Function         |
-|-------------- |------------------|
-| **Reads*      | `+MmCopyMemory ` |
-| **Writes**    |    `+memcpy `    |
+| Feature     | Function         |
+|------------ |------------------|
+| Reads*      | `+MmCopyMemory ` |
+| Writes*     |    `+memcpy `    |
 ---
 
 ## Give credits remember 😉
