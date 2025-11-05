@@ -1,2 +1,13 @@
-# Iotcl
-Ioctl base uses MmCopyMemory for reads and memcpy for writing
+# Ioctl
+
+-- credits to paysom
+
+## Features
+
+| Exploit       | Function         |
+|-------------- |------------------|
+| **Reads*      | `+MmCopyMemory ` |
+| **Writes**    |    `+memcpy `    |
+---
+
+## Give credits remember 😉
